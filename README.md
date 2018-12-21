@@ -2,7 +2,7 @@
 Numerical simulator for 2D - lid driven cavity problem
 
 
-## Govenning Equations
+## Governing Equations
 Incompressible Navier Stokes Equation
 
 ## Feature method
