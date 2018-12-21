@@ -1,4 +1,4 @@
-# cme207-lid_driven_flow
+# cme207 - Lid Driven Cavity Flow
 Numerical simulator for 2D - lid driven cavity problem
 
 
