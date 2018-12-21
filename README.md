@@ -8,7 +8,7 @@ Incompressible Navier Stokes Equation
 ## Feature method
 * Staggered grid
 * Prediction-correction method
-* Upwinding discretizatoin
+* Upwinding discretization
 
 ## Example Results
 
