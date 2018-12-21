@@ -1,7 +1,7 @@
 function Simulation(dx,dy,Re,outPath)
 
 U0 = 10;
-dt = dx^2 / (2 * U0);
+dt = dx^2 / (2 * U0 / 10);
 
 x = 0:dx:1;
 y = 0:dy:1;
